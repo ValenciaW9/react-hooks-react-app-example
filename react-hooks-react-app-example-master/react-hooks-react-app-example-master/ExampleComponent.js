@@ -1,4 +1,9 @@
-import ExampleComponent from "../components/ExampleComponent";
+import React from 'react';
+
+import ExampleComponent from'./ExampleComponent'
+
+
+
 // no need to modify anything in here. The second test is looking for the returned JSX from this component
 function ExampleComponent() {
   return (
